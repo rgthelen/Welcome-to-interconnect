@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: stage1.mybluemix.net
+  name: Welcome to interconnect
+  host: Welcome-to-interconnect
+  disk_quota: 1024M
